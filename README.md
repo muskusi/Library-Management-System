@@ -172,4 +172,11 @@ Branch revenue analysis
 
 Overdue books and return tracking
 
+## 👤 Author
+
+**Samskruthi Musku**  
+Data Analyst  
+🔗 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/)  
+📎 [Portfolio](https://samskruthireddy088.wixsite.com/my-site-2)
+
 

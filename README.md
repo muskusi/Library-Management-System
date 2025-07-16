@@ -232,3 +232,18 @@ ORDER BY no_book_issued DESC
 LIMIT 3;
 
 ```
+## 📊 Reports & Outputs
+Database schema with primary and foreign keys
+
+Summary of active members and top employees
+
+Branch revenue analysis
+
+Overdue books and return tracking
+
+## 👤 Author
+
+**Samskruthi Musku**  
+Data Analyst  
+🔗 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/)  
+📎 [Portfolio](https://samskruthireddy088.wixsite.com/my-site-2)

@@ -58,3 +58,21 @@ UPDATE members
 SET member_address = '125 Oak St'
 WHERE member_id = 'C103';
 ```
+🔹 Task 3: Delete Issued Record
+```sql
+DELETE FROM issued_status
+WHERE issued_id = 'IS121';
+```
+🔹 Task 4: Books Issued by Specific Employee
+```sql
+SELECT * FROM issued_status
+WHERE issued_emp_id = 'E101';
+```
+
+🔹 Task 5: Members Issuing More Than One Book
+```sql
+SELECT issued_emp_id, COUNT(*)
+FROM issued_status
+GROUP BY 1
+HAVING COUNT(*) > 1;
+```

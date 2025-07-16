@@ -45,10 +45,16 @@ CREATE TABLE branch (
   contact_no VARCHAR(15)
 );
 -- Full table creation scripts in source code above
-
+```
 📊 CRUD Operations
 🔹 Task 1: Add a New Book
 ```sql
 INSERT INTO books(isbn, book_title, category, rental_price, status, author, publisher)
 VALUES('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.');
+```
+🔹 Task 2: Update Member Address
+```sql
+UPDATE members
+SET member_address = '125 Oak St'
+WHERE member_id = 'C103';
 ```

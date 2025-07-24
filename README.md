@@ -6,7 +6,6 @@
 **Database**: `library_db`  
 **Objective**: To design and implement a full-featured Library Management System using SQL that demonstrates skills in database creation, normalization, querying, and reporting.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ---
 
